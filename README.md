@@ -23,6 +23,7 @@
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="dart" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="dart" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg" alt="dart" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="git" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>  </p>
 
