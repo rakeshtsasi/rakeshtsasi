@@ -15,7 +15,6 @@
 <a href="https://www.linkedin.com/in/rakesh-t-sasi-a7546a4b" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abuanwar072" height="22" width="22" /></a>
 <a href="https://www.youtube.com/@rh4you" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a>
 
-
 <br />
 
 ### Languages and Tools:
